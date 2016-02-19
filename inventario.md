@@ -1,6 +1,6 @@
 espada:	*Espada do Dragão*
 elmo:	*Elmo de Platina*
-escudo:	*Escudo de Gelo* 
+escudo:	*Escudo de Gelo*
 bag:
-	- 50 gold
+	- 15000 gold
 	- medicinal herb
