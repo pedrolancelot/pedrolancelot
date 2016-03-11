@@ -1,6 +1,7 @@
-espada:	*Espada do Dragão*
-elmo:	*Elmo de Platina*
-escudo:	*Escudo de Gelo*
+Lança:	*Gae Bolg*
+elmo:	*Elmo do dollynho*
 bag:
 	- 15000 gold
-	- medicinal herb
+	- full restore
+	- revive
+	- protein
